@@ -7,7 +7,7 @@
 |- preview.js     ()
 ```
 
-### Main.js
+## Main.js
 ```
 updatePreview {
     text = get element (field)
@@ -16,7 +16,7 @@ updatePreview {
 }
 ```
 
-### preview.js
+## preview.js
 ```
 mdToHtml(raw) {
     return html
